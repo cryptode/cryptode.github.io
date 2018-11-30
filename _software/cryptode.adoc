@@ -3,7 +3,7 @@ title: cryptode
 repo_url: https://github.com/riboseinc/cryptode
 description: >-
   OpenVPN CLI client for macOS, soon RHEL & Ubuntu.
-tags: [C, VPN_management, CLI_tools]
+tags: ["writtenin:C", "interface:CLI"]
 
 feature_with_priority: 1
 ---
