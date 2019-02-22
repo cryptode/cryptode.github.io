@@ -34,7 +34,7 @@ legal:
   privacy_policy_link: https://www.ribose.com/privacy
 
 home_calls_to_action:
-  - { url: "/software/cryptode/docs/installation/", title: "Install" }
+  - { url: "https://github.com/riboseinc/cryptode#quick-install", title: "Install" }
 
 permalink: /blog/:month-:day-:year/:title/
 
