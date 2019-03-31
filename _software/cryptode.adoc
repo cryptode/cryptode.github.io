@@ -1,9 +1,20 @@
 ---
-title: cryptode
-repo_url: https://github.com/riboseinc/cryptode
+title: Cryptode
+
 description: >-
   OpenVPN CLI client for macOS, soon RHEL & Ubuntu.
+
+repo_url: https://github.com/riboseinc/cryptode
+
+external_links:
+  - { url: "https://github.com/riboseinc/cryptode#quick-install", title: "Install" }
+  - { url: "https://github.com/riboseinc/cryptode", title: "Get the source" }
+
 tags: ["writtenin:C", "interface:CLI"]
+
+docs:
+  git_repo_url: https://github.com/riboseinc/cryptode
+  git_repo_subtree: docs
 
 feature_with_priority: 1
 ---

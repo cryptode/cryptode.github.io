@@ -28,13 +28,12 @@ social:
     - https://twitter.com/RiboseUS
     - https://github.com/riboseinc/cryptode
 
+landing_priority: [software, custom_intro, blog, specs]
+
 legal:
   name: Ribose Group Inc.
   tos_link: https://www.ribose.com/tos
   privacy_policy_link: https://www.ribose.com/privacy
-
-home_calls_to_action:
-  - { url: "https://github.com/riboseinc/cryptode#quick-install", title: "Install" }
 
 permalink: /blog/:month-:day-:year/:title/
 
