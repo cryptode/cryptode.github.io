@@ -62,7 +62,7 @@ plugins:
   - jekyll-seo-tag
   - jekyll-sitemap
 
-url: https://cryptode.com/
+url: https://cryptode.com
 
 tag_namespaces:
   software:
