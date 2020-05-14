@@ -20,13 +20,13 @@ contact_email: open.source@ribose.com
 theme: jekyll-theme-open-project
 
 parent_hub:
-  git_repo_url: https://github.com/riboseinc/open.ribose.com
+  git_repo_url: https://github.com/cryptode/open.ribose.com
   home_url: https://open.ribose.com/
 
 social:
   links:
     - https://twitter.com/RiboseUS
-    - https://github.com/riboseinc/cryptode
+    - https://github.com/cryptode/cryptode
 
 landing_priority: [software, custom_intro, blog, specs]
 
@@ -63,7 +63,7 @@ plugins:
   - jekyll-sitemap
 
 url: https://cryptode.com
-github_repo_url: https://github.com/riboseinc/cryptode.com
+github_repo_url: https://github.com/cryptode/cryptode.com
 
 tag_namespaces:
   software:

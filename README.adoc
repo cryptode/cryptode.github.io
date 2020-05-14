@@ -1,8 +1,8 @@
 = Cryptode Open Project Site
 
-image:https://github.com/riboseinc/cryptode.com/workflows/build/badge.svg["Build Status", link="https://github.com/riboseinc/cryptode.com/actions?workflow=build"]
-image:https://github.com/riboseinc/cryptode.com/workflows/deploy-master/badge.svg["Build Status", link="https://github.com/riboseinc/cryptode.com/actions?workflow=deploy-master"]
-image:https://github.com/riboseinc/cryptode.com/workflows/deploy-staging/badge.svg["Build Status", link="https://github.com/riboseinc/cryptode.com/actions?workflow=deploy-staging"]
+image:https://github.com/cryptode/cryptode.com/workflows/build/badge.svg["Build Status", link="https://github.com/cryptode/cryptode.com/actions?workflow=build"]
+image:https://github.com/cryptode/cryptode.com/workflows/deploy-master/badge.svg["Build Status", link="https://github.com/cryptode/cryptode.com/actions?workflow=deploy-master"]
+image:https://github.com/cryptode/cryptode.com/workflows/deploy-staging/badge.svg["Build Status", link="https://github.com/cryptode/cryptode.com/actions?workflow=deploy-staging"]
 
 == Introduction
 
