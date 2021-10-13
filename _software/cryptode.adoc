@@ -5,6 +5,7 @@ description: >-
   OpenVPN CLI client for macOS, soon RHEL & Ubuntu.
 
 repo_url: https://github.com/cryptode/cryptode
+repo_branch: master
 
 external_links:
   - { url: "https://github.com/cryptode/cryptode#quick-install", title: "Install" }

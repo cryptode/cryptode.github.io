@@ -14,4 +14,4 @@ _site:
 serve:
 	bundle exec jekyll serve
 
-.PHONY: bundle all open serve distclean clean
+.PHONY: bundle all open serve clean

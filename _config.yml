@@ -20,8 +20,10 @@ contact_email: open.source@ribose.com
 theme: jekyll-theme-open-project
 
 parent_hub:
-  git_repo_url: https://github.com/cryptode/open.ribose.com
+  git_repo_url: https://github.com/riboseinc/open.ribose.com
   home_url: https://open.ribose.com/
+
+includes_dir: '.'
 
 social:
   links:
@@ -36,6 +38,17 @@ legal:
   privacy_policy_link: https://www.ribose.com/privacy
 
 permalink: /blog/:month-:day-:year/:title/
+
+collections:
+  software:
+    output: true
+    permalink: /software/:path/
+  pages:
+    output: true
+    permalink: /:name/
+  specs:
+    output: false
+    permalink: /specs/:path/
 
 defaults:
   - scope:
